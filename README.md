@@ -1,4 +1,4 @@
-#RickysWeather
+RickysWeather
 
 Weather app An Android Clean Architecture app written in Kotlin, using Kotlin Coroutines and Android Architecture Components using Hilt for Dependency Injection.
 
