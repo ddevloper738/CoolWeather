@@ -123,8 +123,3 @@ dependencies {
     androidTestImplementation(Libs.espresso)
 }
 
-dependencies {
-    def appCenterSdkVersion = '4.4.5'
-    implementation "com.microsoft.appcenter:appcenter-analytics:${appCenterSdkVersion}"
-    implementation "com.microsoft.appcenter:appcenter-crashes:${appCenterSdkVersion}"
-}
